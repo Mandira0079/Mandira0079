@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandira Rana</h1>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-girl&psig=AOvVaw3gHv6DVIn4HhVeuaugfzO3&ust=1722855453733000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiDoe6W24cDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/WNG9MKjXTmSnrgYb6">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandira0079&label=Profile%20views&color=0e75b6&style=flat" alt="mandira0079" /> </p>
 
 <h3 align="left">Connect with me:</h3>
